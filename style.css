@@ -1,0 +1,10 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 30px 200px 
+}
+
+.hder-logo {
+    display: flex;
+}
